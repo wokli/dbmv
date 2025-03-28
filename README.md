@@ -11,7 +11,7 @@ Copy PostgreSQL databases between servers and S3 buckets.
 
 ## Install
 ```bash
-pip install dbmv
+pip install git+https://github.com/wokli/dbmv
 ```
 
 ## Usage
