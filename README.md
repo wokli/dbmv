@@ -5,7 +5,6 @@ Copy PostgreSQL databases between servers and S3 buckets.
 ## Dependencies
 
 - Python 3.6+
-- PostgreSQL client tools (`pg_dump`, `pg_restore`, `psql`)
 - AWS credentials configured (for S3 operations)
 - `pg_dump` and `pg_restore` installed
 
